@@ -9,7 +9,11 @@ Installation is as follows:
 
 3. Connect NTFS drive to computer
 
-4. run this script within folder $  '''python Configure_NTFS.py'''
+4. run this script within folder $  
+
+'''
+python Configure_NTFS.py
+'''
 
 4.5. If prompted to allow software access to computer --> do so
 
