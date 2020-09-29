@@ -9,7 +9,7 @@ Installation is as follows:
 
 3. Connect NTFS drive to computer
 
-4. Run this script within NTFS4MAC folder:  
+4. Type and run this within NTFS4MAC folder:  
 
 ```
 python Configure_NTFS.py
