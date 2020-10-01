@@ -5,7 +5,11 @@ Installation is as follows:
 
 1. Install homebrew package manager from here as instructed: https://brew.sh/
 
-2. Open terminal + navigate to this repository folder example:(cd ~/Downloads/NTFS4MAC/)
+2. Open terminal + navigate to this repository folder example:
+
+```
+cd ~/Downloads/NTFS4MAC/
+```
 
 3. Connect NTFS drive to computer
 
